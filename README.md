@@ -21,7 +21,7 @@
 **About me:**
 
 - 👩🏼‍💻 I am currently working with React and React Native;
-- 📚 I’m currently learning Typescript and NodeJS; 
+- 📚 I’m currently learning Typescript, NodeJS and GraphQL; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@beatrizsabbatini](https://www.linkedin.com/in/beatriz-sabbatini-491619178/);
 
