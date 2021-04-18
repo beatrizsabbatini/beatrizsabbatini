@@ -4,16 +4,12 @@
 <p><em>Software Engineering student at <a target="_blank" href="http://portal.utfpr.edu.br/">UTFPR </a><img src="https://media2.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif?cid=ecf05e47f4f5jrf5a45vtjw830ten75mii34yk8rc7h099mv&rid=giphy.gif" width="25"></br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<a href="https://www.linkedin.com/in/beatriz-sabbatini-491619178/">
-  <img align="left" alt="Beatriz's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://t.me/beatrizsabbatini">
-  <img align="left" alt="Beatriz's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://www.linkedin.com/in/beatriz-schwartz/">
+  <img align="left" alt="Beatriz's LinkdeIN" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 
 <a href="https://www.instagram.com/bia.codes/">
-  <img align="left" alt="Beatriz's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Beatriz's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=beatrizsabbatini.beatrizsabbatini)
