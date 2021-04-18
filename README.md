@@ -16,10 +16,10 @@
 
 **About me:**
 
-- 👩🏼‍💻 I am currently working with React and React Native;
-- 📚 I’m currently learning Typescript, NodeJS and GraphQL; 
+- 👩🏼‍💻 I am currently working with ReactJS and Flutter;
+- 📚 I’m currently learning Animations, NodeJS and GraphQL; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@beatrizsabbatini](https://www.linkedin.com/in/beatriz-sabbatini-491619178/);
+- 📫 How to reach me: [@beatrizsabbatini](https://www.linkedin.com/in/beatriz-schwartz/);
 
 <br/>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beatrizsabbatini&count_private=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
