@@ -1,7 +1,7 @@
 ### Hi! I´m Bea, and welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <hr>
 
-<p><em>Software Engineering student at <a target="_blank" href="http://portal.utfpr.edu.br/">UTFPR </a><img src="https://media2.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif?cid=ecf05e47f4f5jrf5a45vtjw830ten75mii34yk8rc7h099mv&rid=giphy.gif" width="25"></br>Fullstack developer at <a target="_blank" href="https://www.luby.com.br/?gclid=Cj0KCQiAwf39BRCCARIsALXWETwTxvZW3BrqyMztZASYhiWsbvGaL7GQK9hQWlwjic19_uETLNTkqIgaAo_AEALw_wcB" >Luby </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineering student at <a target="_blank" href="http://portal.utfpr.edu.br/">UTFPR </a><img src="https://media2.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif?cid=ecf05e47f4f5jrf5a45vtjw830ten75mii34yk8rc7h099mv&rid=giphy.gif" width="25"></br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <a href="https://www.linkedin.com/in/beatriz-sabbatini-491619178/">
@@ -12,7 +12,7 @@
   <img align="left" alt="Beatriz's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-<a href="https://www.instagram.com/bia.schwartz/">
+<a href="https://www.instagram.com/bia.codes/">
   <img align="left" alt="Beatriz's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
