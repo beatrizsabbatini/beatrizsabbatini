@@ -17,7 +17,7 @@
 **About me:**
 
 - 👩🏼‍💻 I am currently working with ReactJS (but I also know React Native);
-- 📚 I’m currently learning Animations, NodeJS and GraphQL; 
+- 📚 I’m currently learning Flutter; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@beatrizsabbatini](https://www.linkedin.com/in/beatriz-schwartz/);
 
