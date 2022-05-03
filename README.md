@@ -5,7 +5,7 @@
 </em></p>
 
 <a href="https://www.linkedin.com/in/beatriz-schwartz/">
-  <img align="left" alt="Beatriz's LinkdeIN" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+  <img align="left" alt="Beatriz's LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
 <a href="https://www.instagram.com/bia.codes/">
