@@ -20,7 +20,3 @@ Software Developer at <a target="_blank" href="https://www.quintoandar.com.br/">
 - 📚 I’m currently learning Flutter; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@beatrizsabbatini](https://www.linkedin.com/in/beatriz-schwartz/);
-
-<br/>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beatrizsabbatini&count_private=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsabbatini&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
