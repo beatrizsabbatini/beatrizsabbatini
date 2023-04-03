@@ -1,7 +1,7 @@
 ### Hi! I´m Bea, and welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <hr>
 
-Software Developer at <a target="_blank" href="https://www.quintoandar.com.br/">QuintoAndar </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Software Engineer at <a target="_blank" href="https://www.quintoandar.com.br/">QuintoAndar </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <a href="https://www.linkedin.com/in/beatriz-schwartz/">
