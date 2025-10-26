@@ -1,8 +1,7 @@
 ### Hi! I´m Bea, and welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <hr>
 
-Software Engineer at <a target="_blank" href="https://www.quintoandar.com.br/">QuintoAndar </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+Software Engineer
 
 <a href="https://www.linkedin.com/in/beatriz-schwartz/">
   <img align="left" alt="Beatriz's LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
@@ -16,7 +15,6 @@ Software Engineer at <a target="_blank" href="https://www.quintoandar.com.br/">Q
 
 **About me:**
 
-- 👩🏼‍💻 I am currently working with ReactJS (but I also know React Native);
-- 📚 I’m currently learning Flutter; 
+- 👩🏼‍💻 I am currently working with NextJS;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@beatrizsabbatini](https://www.linkedin.com/in/beatriz-schwartz/);
