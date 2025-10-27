@@ -7,14 +7,12 @@ Software Engineer
   <img align="left" alt="Beatriz's LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
-<a href="https://www.instagram.com/bia.codes/">
+<a href="https://www.instagram.com/xuartis/">
   <img align="left" alt="Beatriz's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=beatrizsabbatini.beatrizsabbatini)
 
-**About me:**
-
-- 👩🏼‍💻 I am currently working with NextJS;
+- 👩🏼‍💻 I am currently working with React;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@beatrizsabbatini](https://www.linkedin.com/in/beatriz-schwartz/);
